@@ -1,0 +1,14 @@
+/home/somi/AgvClient/bin/Debug/net8.0/AgvClient
+/home/somi/AgvClient/bin/Debug/net8.0/AgvClient.deps.json
+/home/somi/AgvClient/bin/Debug/net8.0/AgvClient.runtimeconfig.json
+/home/somi/AgvClient/bin/Debug/net8.0/AgvClient.dll
+/home/somi/AgvClient/bin/Debug/net8.0/AgvClient.pdb
+/home/somi/AgvClient/obj/Debug/net8.0/AgvClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/somi/AgvClient/obj/Debug/net8.0/AgvClient.AssemblyInfoInputs.cache
+/home/somi/AgvClient/obj/Debug/net8.0/AgvClient.AssemblyInfo.cs
+/home/somi/AgvClient/obj/Debug/net8.0/AgvClient.csproj.CoreCompileInputs.cache
+/home/somi/AgvClient/obj/Debug/net8.0/AgvClient.dll
+/home/somi/AgvClient/obj/Debug/net8.0/refint/AgvClient.dll
+/home/somi/AgvClient/obj/Debug/net8.0/AgvClient.pdb
+/home/somi/AgvClient/obj/Debug/net8.0/AgvClient.genruntimeconfig.cache
+/home/somi/AgvClient/obj/Debug/net8.0/ref/AgvClient.dll
