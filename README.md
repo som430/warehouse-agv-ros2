@@ -71,3 +71,10 @@ ros2 run agv_controller waypoint_follower.py
 ```bash
 cd ~/AgvClient && dotnet run
 ```
+
+## Demo
+
+### 동적 장애물 회피 (Dynamic Obstacle Avoidance)
+Nav2가 실시간으로 장애물을 감지하고 경로를 재계획하는 시뮬레이션입니다.
+
+![demo](docs/demo.gif)
